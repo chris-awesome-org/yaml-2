@@ -3,9 +3,9 @@ version: 1
 service:
   name: Reporting
   lifecycle: generally_available
-  tier: tier_1
+  tier: tier_2
   product: Web
   owner: im_d
   language: Ruby
   framework: Rails
-  description: Calculates all of the analytics on user data and reports back.
+  description: Calculates all of the analytics on user data.
