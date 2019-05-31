@@ -8,4 +8,4 @@ service:
   owner: im_d
   language: Ruby
   framework: Rails
-  description: Calculates all of the analytics on user data and such.
+  description: Calculates all of the analytics on user data.
