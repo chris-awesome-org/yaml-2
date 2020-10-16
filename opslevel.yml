@@ -3,7 +3,7 @@ version: 1
 service:
   name: Reporting
   lifecycle: generally_available
-  tier: tier_2
+  tier: tier_1
   product: Web
   owner: im_d
   language: Ruby
