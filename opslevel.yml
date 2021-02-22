@@ -9,3 +9,6 @@ service:
   language: Ruby
   framework: Rails
   description: Calculates all of the analytics on user data and stuff.
+  tags:
+  - key: some
+    value: keysss
