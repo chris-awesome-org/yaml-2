@@ -1,0 +1,16 @@
+---
+version: 1
+service:
+  name: Reporting
+  lifecycle: generally_available
+  tier: tier_1
+  product: Web
+  owner: im_d
+  language: Ruby
+  framework: Rails
+  description: Calculates all of the analytics on user data and stuff.
+  tags:
+  - key: some
+    value: keysss
+  service_dependencies:
+    - alias: search
