@@ -12,3 +12,5 @@ service:
   tags:
   - key: some
     value: keysss
+  service_dependencies:
+    - alias: search
